@@ -1,0 +1,1 @@
+blog.sql is a database. it has the blog.sql and admin.sql tables.
